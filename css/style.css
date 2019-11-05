@@ -55,7 +55,7 @@ a {
   margin-top: 100px; }
 
 .bg-1 {
-  background-image: url(../images/test.png);
+  background-image: black;
   background-size: auto; }
 
 .bg-opacity {
@@ -165,7 +165,6 @@ a:active {
   position: relative;
   font-family: "themefisher-font" !important; }
   .pre-loader:before {
-    content: "\f3bd";
     position: absolute;
     top: 50%;
     left: 50%;
